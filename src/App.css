@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.nav-link.active {
+  color: black;
+  font-weight: bold;
+  border-bottom: 2px solid black;
+}
